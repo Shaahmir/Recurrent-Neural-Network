@@ -1,0 +1,19 @@
+[project]
+name = "Recurrent-Neural-Network"
+version = "0.1.0"
+description = "A production-ready Sequence-to-Sequence (Seq2Seq) conversational chatbot built from scratch in PyTorch using a Bidirectional LSTM Encoder, Bahdanau Attention, and SentencePiece tokenization, managed with uv."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "pyarrow>=25.0.0",
+    "scikit-learn>=1.9.0",
+    "sentencepiece>=0.2.2",
+    "tensorboard>=2.21.0",
+    "torch>=2.13.0",
+    "torchaudio>=2.11.0",
+    "torchvision>=0.28.0",
+    "tqdm>=4.68.4",
+]
