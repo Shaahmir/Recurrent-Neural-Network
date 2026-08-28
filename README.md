@@ -147,3 +147,9 @@ uv run python -m inference
 * Type `exit` to close the session.
 
 ---
+
+## Visual Artifact:
+
+---
+
+![Output](Output.png)
